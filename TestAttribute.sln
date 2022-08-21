@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAttribute", "TestAttribute\TestAttribute.csproj", "{EDC065F6-3ED3-4156-9310-CD699D571CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bartarha.Monitoring", "Bartarha.Monitoring\Bartarha.Monitoring.csproj", "{A5830B6D-0897-4753-AA91-AA298E8CE875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC065F6-3ED3-4156-9310-CD699D571CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC065F6-3ED3-4156-9310-CD699D571CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC065F6-3ED3-4156-9310-CD699D571CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC065F6-3ED3-4156-9310-CD699D571CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5830B6D-0897-4753-AA91-AA298E8CE875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5830B6D-0897-4753-AA91-AA298E8CE875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5830B6D-0897-4753-AA91-AA298E8CE875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5830B6D-0897-4753-AA91-AA298E8CE875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
